@@ -14,3 +14,4 @@ Step 1
 Step 2
 Step 3
 >>>>>>> 7d6bd0cf16a7c799f785b5d34ba3d89446bb3b89
+change made 1
