@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Here's some instructions
 Step 1
 Step 2
@@ -8,3 +9,8 @@ Please make local changes
 =======
 Please refer to website for further
 >>>>>>> 9b65a6b648174e6a30fcbb0fa8dcd5a7a3aefcf6
+=======
+Step 1
+Step 2
+Step 3
+>>>>>>> 7d6bd0cf16a7c799f785b5d34ba3d89446bb3b89
